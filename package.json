@@ -1,7 +1,7 @@
 {
-  "name": "base-react-vite-hoidanit",
+  "name": "react-basic-vite",
   "author": {
-    "name": "Hỏi Dân IT & Eric",
+    "name": "React Basic",
     "url": "https://hoidanit.vn"
   },
   "private": true,
